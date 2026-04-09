@@ -9,7 +9,7 @@ import re
 from PIL import Image
 
 # --- LOGO CONFIGURATION ---
-#LOGO_URL = "https://github.com/kishoreb8271/cspm/blob/main/VantageGuard.png?raw=true"
+LOGO_URL = "https://github.com/kishoreb8271/cspm/blob/main/VantageGuard.png?raw=true"
 
 # Page Configuration
 st.set_page_config(page_title="Cloud Security & Entitlement Manager", layout="wide")
